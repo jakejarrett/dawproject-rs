@@ -10,3 +10,9 @@
 ## Extended goals (For pre-1.0 release, but post beta)
 - [ ] Unit tests
 - [ ] Performance improvements (if needed)
+
+## Dependencies explained
+- UUID: Unique ID's
+- Serde: Ability to serialize/deserialize data
+- XML: dawproject uses XML under the hood to represent data
+- ZIP: the .dawproject file is just a zip file
